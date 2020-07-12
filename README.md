@@ -1,4 +1,9 @@
+# Yilmer Ramiro Guativa Rincon @YilDeveloper
+
 ### Hi there 👋
+
+- 🔭 I’m currently working on ingeneer of project T.I. developer in ASP Core API and Angular 
+- 🌱 I’m currently learning machine learning in platzi and udemy
 
 <!--
 **yrguativa/yrguativa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
