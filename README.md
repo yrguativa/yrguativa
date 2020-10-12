@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on ingeneer of project T.I. developer in ASP Core API and Angular 
+- 🔭 I’m currently working as Developer Senior in ASP Core API and Angular 
 - 🌱 I’m currently learning machine learning in platzi and udemy
 
 <!--
