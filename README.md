@@ -1,21 +1,12 @@
-# Yilmer Ramiro Guativa Rincon @YilDeveloper
-
+# Yilmer Ramiro Guativa Rincon 
+ 
 ### Hi there 👋
 
-- 🔭 I’m currently working as Developer Senior in ASP Core API and Angular 
-- 🌱 I’m currently learning machine learning in platzi and udemy
+I'm  a software engenier from  **Colombia** with more of 9 years in development software, I have a konw of Backend developer in creation of *Microservices in .NET Core*, and Frontend developer with *Angular* and *React*.
 
-<!--
-**yrguativa/yrguativa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working as Developer Senior Advance. 
+- 🌱 I’m currently learning machine learning in **Platzi** and **Udemy**.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Links
+- [Intagram](https://www.instagram.com/yildeveloper/)
+- [Web](https://yrguativa.github.io/MP/) 🔨(Building)
